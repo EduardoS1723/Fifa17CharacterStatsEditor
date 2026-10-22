@@ -1,0 +1,15 @@
+# EA game data: never commit
+*.db
+*.DB
+*.xml
+*.XML
+*.bak
+*.fbmod
+*.fbproject
+*.dds
+* project/
+editor_project.json
+
+# Python
+__pycache__/
+*.pyc
